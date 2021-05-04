@@ -14,5 +14,5 @@ void loop()
     digitalWrite(2, LOW); //ejecuta si la condición es falsa y apaga el pin 2
     digitalWrite(1, HIGH); //ejecuta si la condición es falsa y  prende el pin 1
   }
-  delay(10); // espera de 10 segundos 
+  delay(10); // espera de 15 segundos 
 }
